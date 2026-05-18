@@ -1,2 +1,7 @@
-# demo-segretin-propiedades
-Demo web para Segretin Propiedades — diseñada por eterlab.
+# Segretin Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
